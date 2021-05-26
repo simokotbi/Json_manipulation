@@ -2,7 +2,6 @@ import com.jayway.jsonpath.JsonPath;
 
 public class app {
 
-
     public static void main(String[] args) {
         String Jsonobject="{\n" +
                 "   \"policyNumber\":\"A1234567\",\n" +
